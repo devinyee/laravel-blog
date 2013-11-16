@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://devinyee.github.io//github/blog/2013/11/16/all-about-laravel-4/</loc>
+        <lastmod>2013-11-16T14:52:19+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://devinyee.github.io//github/blog/archives/</loc>
+        <lastmod>2013-11-16T14:52:19+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://devinyee.github.io//github/</loc>
+        <lastmod>2013-11-16T14:52:19+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://devinyee.github.io//github/robots.txt</loc>
+        <lastmod>2013-11-16T14:49:39+08:00</lastmod>
+    </url>
+</urlset>
